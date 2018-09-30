@@ -1,7 +1,7 @@
 # Mackerelとは
-MackerelはSaaS型のサーバ監視ツールである。
-サーバ監視ツールにはSaaS型ではStackDriverやDatadog,AWS CloudWatch、OSSでは等あるが、
-Mackerelはてな株式会社が運営している日本製のサーバ監視ツールである。
+Mackerelはサーバ監視ツールである。
+サーバ監視ツールにはSaaS型ではStackDriverやDatadog,AWS CloudWatch、OSSではprometheus等あるが、
+Mackerelはてな株式会社が運営している日本製のSaaS型サーバ監視ツールである。
 またMackerelのプラグインやエージェントはGolangで書かれており、
 バイナリを実行することで様々な環境に対応できるという特徴がある。
 サーバ監視ツールにはPull型Push型があるがMackerelはPush型である。
